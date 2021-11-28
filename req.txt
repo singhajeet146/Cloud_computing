@@ -1,0 +1,9 @@
+
+Flask==1.1.2
+
+joblib==1.0.1
+bs4==0.0.1
+nltk==3.6.3
+scikit-learn
+lxml==4.6.3
+
